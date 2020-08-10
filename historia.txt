@@ -4,11 +4,9 @@ Tengo 41 años y me estoy reinventando
 
 Masrter 1
 
-<<<<<<< HEAD
 Master 2
-=======
+
 Experimento 1
->>>>>>> c823933...  Exp 1
 
 Experimento 2
 
